@@ -1,0 +1,32 @@
+#hub{
+    display:block ;
+    margin-left: auto;
+    margin-right: auto;
+}
+#jo{
+    margin-top: 1rem;
+    background-color: bisque;
+    margin-left: 28rem;
+    margin-right: 2rem;
+    padding: 1rem 0.8rem;
+    border-radius:1rem ;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+#jo a{
+    text-decoration: none;
+    font-size: 1.8rem; 
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: rgb(0, 0, 0);
+   font-weight: 600;
+}
+.ses{
+    border-right: 1px solid black;
+    height: 1.5rem;
+}
+buh :hover{
+    padding: 1rem 0.8rem;
+    background-color: rgb(189, 101, 0);
+    width: 1rem;
+}
